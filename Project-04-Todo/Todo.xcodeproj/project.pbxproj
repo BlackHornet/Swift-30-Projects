@@ -276,7 +276,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.demo.todo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d1e43d54-a375-4c11-b562-b7d3bbc22f4d";
+				PROVISIONING_PROFILE = "c4c87d51-0914-4433-9dc4-06acc0a68bfb";
 				PROVISIONING_PROFILE_SPECIFIER = "SSchlicht WildCard Development";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
@@ -294,7 +294,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.demo.todo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d1e43d54-a375-4c11-b562-b7d3bbc22f4d";
+				PROVISIONING_PROFILE = "c4c87d51-0914-4433-9dc4-06acc0a68bfb";
 				PROVISIONING_PROFILE_SPECIFIER = "SSchlicht WildCard Development";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
