@@ -105,7 +105,7 @@
 				TargetAttributes = {
 					19515F891C8558F800DC2284 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = S53W697642;
+						DevelopmentTeam = 4LD25G78TW;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Manual;
 					};
@@ -270,14 +270,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S53W697642;
+				DEVELOPMENT_TEAM = 4LD25G78TW;
 				INFOPLIST_FILE = Todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.demo.todo;
+				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.todo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c4c87d51-0914-4433-9dc4-06acc0a68bfb";
-				PROVISIONING_PROFILE_SPECIFIER = "SSchlicht WildCard Development";
+				PROVISIONING_PROFILE = "74c51b49-0a11-40f7-ba1e-91a97a668fa0";
+				PROVISIONING_PROFILE_SPECIFIER = "DE Deloitte Sebastian Schlicht DEV";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
 			};
@@ -288,14 +289,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = S53W697642;
+				DEVELOPMENT_TEAM = 4LD25G78TW;
 				INFOPLIST_FILE = Todo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.demo.todo;
+				PRODUCT_BUNDLE_IDENTIFIER = de.deloitte.sschlicht.ios.todo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "c4c87d51-0914-4433-9dc4-06acc0a68bfb";
-				PROVISIONING_PROFILE_SPECIFIER = "SSchlicht WildCard Development";
+				PROVISIONING_PROFILE = "74c51b49-0a11-40f7-ba1e-91a97a668fa0";
+				PROVISIONING_PROFILE_SPECIFIER = "DE Deloitte Sebastian Schlicht DEV";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.0;
 			};
